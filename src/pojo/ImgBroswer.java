@@ -21,7 +21,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 import dao.ImgDao;
 import dao.OwnDao;
-import test.ImgExcelUtil;
+import p.util.ImgExcelUtil;
     
 
     // TODO: Auto-generated Javadoc

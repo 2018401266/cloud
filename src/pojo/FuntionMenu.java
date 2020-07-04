@@ -8,6 +8,7 @@ import javax.swing.table.DefaultTableModel;
 import dao.AlbumDao;
 import dao.OwnDao;
 import dao.UserDao;
+import p.util.AlbumExcelUtil;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -21,7 +22,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Vector;
 import pojo.AlterAlbum;
-import test.AlbumExcelUtil;
 
     // TODO: Auto-generated Javadoc
 /**

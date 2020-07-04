@@ -18,10 +18,9 @@ import dao.AlbumDao;
 
     // TODO: Auto-generated Javadoc
     /**
-     * 修改相册描述和名称界面
      * The Class AlterAlbum.
      *
-     * @date 2020-7-3
+     * @date 2020-7-4
      * @author buxinyi
      * @version  v1.0
      */
